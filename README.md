@@ -20,7 +20,7 @@ PS : N'oubliez surtout pas qu'il n'existe plusieurs de manière de faire en code
 
 ## Authors
 
-- [@ZadoxYT](https://www.github.com/ZadoxYT)
+- [@Alekxays](https://www.github.com/Alekxays)
 
 For educational purposes only. 
 
