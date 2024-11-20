@@ -27,7 +27,7 @@ This repository includes exercises written in JavaScript covering a variety of p
 
 **1. Clone the Repository**
 
-	git clone https://github.com/Alekxays/pool-eds.git
+	git clone https://github.com/Alekxays/Pool-EDS1.git
 	cd pool-eds
 
 **2. Explore and Learn**
